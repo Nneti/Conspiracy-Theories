@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+    h2 {color:red;font-size: 26px;font-style: italic;}
+    h3 {color:red;font-size: 26px;font-style: italic;}
+    h4{font-size: 23px;}
+    p {color:black; font-size: 21px;}
+
+
+    body, html {
+height: 100%;
+}
+
+.bg {
+
+background-image: url("planet.jpg"):
+
+height: 50%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+    </style>
+    </head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="homepage.css">
+  </head>
+  <body>
+
+  <div class="header">
+    <marquee><h1>Planet X</h1></marquee>
+  </div>
+
+  <div class="topnav">
+    <a href="homepage.html">Home</a>
+    <a href="mandela.html">Mandela Effect</a>
+    <a href="FakeMoon.html">Fake Moon Landing</a>
+    <a href="#">Women in Tech</a>
+    <a href="#">About</a>
+    <a href="#">Contact</a>
+    <a href="#" style="float:right">Link</a>
+  </div>
+
+<br><img src="nancyl.jpg" alt="nancyl.jpg" height="200" width="380" align=right>
+  <h2> How This Theory Started</h2>
+
+      <p>
+        This theory started in 1995 by Nancy Lieder. She describes herself as a contactee and believes she can receive messages from extra-terrestrials from the Zeta Reticuli star system all through the implant in her brain. She believes that she was chosen to take care and to warn the human race about the disaster that will occur in the future.
+        Because of this theory, she spoke about, the prediction spread by numerous Internet Doomsday groups which closely associated with the 2012 phenomenon that many believed would have destroyed the Earth and their race.
+</p>
+<h4><a href="http://www.zetatalk.com/">Nancy Lieder Zetatalk</a></h4>
+<h3> The Plant X Theory </h3>
+
+<img src="planetx.jpg" alt="planetx.jpg" height="210" width="370" align=left hspace="20">
+
+        <p>
+          The idea of the Planet X conspiracy theory is that a planet-sized object will collide with Earth or closely pass it in the future. This collision will cost our humankind existence. Nibiru is believed by many people to orbit the Sun every 3,600 years, each time bringing with it destruction across the planet. Many believers accuse NASA of covering up visual evidence of its existence and the life that resides in that planet.
+        </p>
+        </p>
+        <p><strong>Fact:</strong></p>
+        <p>There is an undiscovered planet in our solar system and scientist have yet to experiment on it. </p>
+        <p><strong>Not a fact:</strong></p>
+      <p>Planet X will collide with Earth, and all humankind will terminate.</p>
+
+     </p>
+
+      </body>
+      </html>

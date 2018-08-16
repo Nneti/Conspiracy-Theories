@@ -4,7 +4,7 @@
 
 body {
     font-family: Arial;
-    padding: 10px;
+    padding: 5px;
     background: #f1f1f1;
 }
 
@@ -21,6 +21,8 @@ body {
 .header h1 {
 		color: white;
     font-size: 60px;
+    font-family: faster one, cursive;
+
 }
 
 p{
@@ -51,6 +53,8 @@ h5{
     float: left;
     display: block;
     color: #f2f2f2;
+    font-family:"Trebuchet MS", Arial,  Helvetica, sans-serif;
+    font-size: 18px;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -66,7 +70,7 @@ h5{
 /* Left column */
 .leftcolumn {
     float: left;
-    width: 75%;
+    width: 99%;
 }
 
 /* Right column */
@@ -77,12 +81,6 @@ h5{
     padding-left: 20px;
 }
 
-/* Fake image */
-.fakeimg {
-    background-color: #aaa;
-    width: 100%;
-    padding: 20px;
-}
 
 /* Add a card effect for articles */
 .card {
@@ -104,21 +102,6 @@ h5{
     text-align: center;
     background: #ddd;
     margin-top: 20px;
-}
-* {
-    box-sizing: border-box;
-}
-.column {
-    float: left;
-    width: 33.33%;
-    padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
 }
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
