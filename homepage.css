@@ -4,7 +4,7 @@
 
 body {
     font-family: Arial;
-    padding: 10px;
+		padding: 5px;
     background: #f1f1f1;
 }
 
@@ -19,6 +19,7 @@ body {
 }
 
 .header h1 {
+		font-family: bangers;
 		color: white;
     font-size: 60px;
 }
@@ -51,6 +52,8 @@ h5{
     float: left;
     display: block;
     color: #f2f2f2;
+		font-family:"Trebuchet MS", Arial,  Helvetica, sans-serif;
+		font-size: 18px;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
