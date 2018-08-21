@@ -5,7 +5,8 @@
 body {
     font-family: Arial;
     padding: 5px;
-    background: #f1f1f1;
+    background:#f1f1f1;
+
 }
 
 /* Header/Blog Title */
@@ -66,4 +67,9 @@ body {
     text-align: justify;
     letter-spacing: 1px;
 }
-/* Add a card effect for articles */
+
+
+div.a{
+
+    text-indent: 50px;
+}
