@@ -5,8 +5,7 @@
 body {
     font-family: Arial;
     padding: 5px;
-    background:#87AFC7;
-
+    background: #008080;
 }
 
 /* Header/Blog Title */
@@ -51,25 +50,7 @@ body {
 /* Create two unequal columns that floats next to each other */
 /* Left column */
 
-    h2,h3,h4,h5,h6,h7{ font-size: 25px;font-family:inherit;}
-
-    .hero-text {
-      text-align: relative;
-      position: absolute;
-      top: 23%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      color: white;
-    }
-
-    p {
-    text-indent: 35px;
-    text-align: justify;
-    letter-spacing: 1px;
-}
-
-
-div.a{
-
-    text-indent: 50px;
-}
+h2 {color:red;font-size: 26px;font-style: italic;}
+h3 {color:red;font-size: 26px;font-style: italic;}
+h4{font-size: 23px;}
+p {color:black; font-size: 21px;}
